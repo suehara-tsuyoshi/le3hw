@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/momon/le3hw/alu/simulation/modelsim
+valu
+Z1 !s110 1618630228
+!i10b 1
+!s100 kAG;=o4@JRMJS]A1WRW[K0
+IEOQ3m>EO;>W3Q9gL=VTJ92
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1618630205
+Z4 8alu_7_1200mv_100c_slow.vo
+Z5 Falu_7_1200mv_100c_slow.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1618630227.000000
+Z8 !s107 alu_7_1200mv_100c_slow.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|alu_7_1200mv_100c_slow.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+valu_vlg_tst
+R1
+!i10b 1
+!s100 SdG^iPCLQFbWJkYV2l<@l1
+IeRj<3^eWE89R75]GT@M1;1
+R2
+R0
+w1618629613
+8C:/Users/momon/le3hw/alu/simulation/modelsim/alu_test1.vt
+FC:/Users/momon/le3hw/alu/simulation/modelsim/alu_test1.vt
+L0 28
+R6
+r1
+!s85 0
+31
+!s108 1618630228.000000
+!s107 C:/Users/momon/le3hw/alu/simulation/modelsim/alu_test1.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/momon/le3hw/alu/simulation/modelsim|C:/Users/momon/le3hw/alu/simulation/modelsim/alu_test1.vt|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/Users/momon/le3hw/alu/simulation/modelsim
+R12
+vhard_block
+R1
+!i10b 1
+!s100 oUb59eD@DeJXWT@32m?4F1
+INeGU`h^94@CdP@l6QU83l3
+R2
+R0
+R3
+R4
+R5
+L0 7728
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

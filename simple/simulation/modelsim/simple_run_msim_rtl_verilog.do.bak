@@ -1,0 +1,12 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/momon/le3hw/simple {C:/Users/momon/le3hw/simple/simple.v}
+vlog -vlog01compat -work work +incdir+C:/Users/momon/le3hw/simple {C:/Users/momon/le3hw/simple/main_memory.v}
+vlog -vlog01compat -work work +incdir+C:/Users/momon/le3hw/simple {C:/Users/momon/le3hw/simple/p1_fetch.v}
+vlog -vlog01compat -work work +incdir+C:/Users/momon/le3hw/simple {C:/Users/momon/le3hw/simple/control_unit.v}
+

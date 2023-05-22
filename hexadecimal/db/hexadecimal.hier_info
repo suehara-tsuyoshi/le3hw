@@ -1,0 +1,19 @@
+|hexadecimal
+data[0] => Decoder0.IN3
+data[1] => Decoder0.IN2
+data[2] => Decoder0.IN1
+data[3] => Decoder0.IN0
+seg[0] << <GND>
+seg[1] << WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+seg[2] << WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+seg[3] << WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+seg[4] << WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+seg[5] << WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+seg[6] << WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+seg[7] << WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+sel[0] << <GND>
+sel[1] << <GND>
+sel[2] << <GND>
+sel[3] << <GND>
+
+

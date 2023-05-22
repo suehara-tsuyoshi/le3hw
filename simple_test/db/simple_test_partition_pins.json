@@ -1,0 +1,473 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "clock_out",
+					"strict" : false
+				},
+				{
+					"name" : "reset_out",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "l_out3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "r_out3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "selector_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "phase_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[0]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[1]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[2]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[3]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[4]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[5]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[6]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[7]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[8]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[9]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[10]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[11]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[12]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[13]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[14]",
+					"strict" : false
+				},
+				{
+					"name" : "instruction_register[15]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "select_display[3]",
+					"strict" : false
+				},
+				{
+					"name" : "select_display[0]",
+					"strict" : false
+				},
+				{
+					"name" : "select_display[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[0]",
+					"strict" : false
+				},
+				{
+					"name" : "select_display[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[7]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[8]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[9]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[10]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[11]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[12]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[13]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[14]",
+					"strict" : false
+				},
+				{
+					"name" : "outside_input[15]",
+					"strict" : false
+				},
+				{
+					"name" : "exec",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

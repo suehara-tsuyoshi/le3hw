@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/momon/le3hw/simple_ver2/simulation/modelsim
+vhard_block
+Z1 !s110 1619072737
+!i10b 1
+!s100 42]o<nQkanWP55:`0o5IM0
+IaT_Mol_Q4M6@9L7kBT8Rz1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619072673
+Z4 8simple_ver2_7_1200mv_100c_slow.vo
+Z5 Fsimple_ver2_7_1200mv_100c_slow.vo
+L0 21456
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1619072737.000000
+Z8 !s107 simple_ver2_7_1200mv_100c_slow.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|simple_ver2_7_1200mv_100c_slow.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+vsimple_ver2
+R1
+!i10b 1
+!s100 P[^LCU3flo>8=OZ=>a2=M3
+IPJ?ORbU0EfCOn^G^@bPXY0
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vsimple_ver2_vlg_tst
+R1
+!i10b 1
+!s100 a;_ZU42UceB1[a^?a]Q?@1
+IL@QXe^^6C`F<ZGJS>[GQU0
+R2
+R0
+w1619058259
+8C:/Users/momon/le3hw/simple_ver2/simulation/modelsim/simple_ver2_test1.vt
+FC:/Users/momon/le3hw/simple_ver2/simulation/modelsim/simple_ver2_test1.vt
+L0 28
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/momon/le3hw/simple_ver2/simulation/modelsim/simple_ver2_test1.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/momon/le3hw/simple_ver2/simulation/modelsim|C:/Users/momon/le3hw/simple_ver2/simulation/modelsim/simple_ver2_test1.vt|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/Users/momon/le3hw/simple_ver2/simulation/modelsim
+R12

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri May 14 14:18:02 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : pipeline_processor
+Top-level Entity Name : pipeline_processor
+Family : Cyclone IV E
+Device : EP4CE30F23I7
+Timing Models : Final
+Total logic elements : 1,373 / 28,848 ( 5 % )
+    Total combinational functions : 1,321 / 28,848 ( 5 % )
+    Dedicated logic registers : 599 / 28,848 ( 2 % )
+Total registers : 599
+Total pins : 35 / 329 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 49,152 / 608,256 ( 8 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

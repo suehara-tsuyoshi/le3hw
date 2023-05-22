@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at alu.v(143): always construct contains both blocking and non-blocking assignments File: C:/Users/momon/le3hw/pipeline_processor/alu.v Line: 143

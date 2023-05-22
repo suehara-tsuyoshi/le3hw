@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at countup_switch.v(67): always construct contains both blocking and non-blocking assignments File: C:/Users/momon/le3hw/countup_switch/countup_switch.v Line: 67

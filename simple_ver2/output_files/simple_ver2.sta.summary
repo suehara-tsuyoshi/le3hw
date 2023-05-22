@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 100C Model Setup 'clock'
+Slack : -6.678
+TNS   : -1093.655
+
+Type  : Slow 1200mV 100C Model Setup 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : -2.334
+TNS   : -11.277
+
+Type  : Slow 1200mV 100C Model Hold 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'clock'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -370.015
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'clock'
+Slack : -5.729
+TNS   : -963.027
+
+Type  : Slow 1200mV -40C Model Setup 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : -2.209
+TNS   : -11.155
+
+Type  : Slow 1200mV -40C Model Hold 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'clock'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -368.551
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'clock'
+Slack : -2.483
+TNS   : -356.510
+
+Type  : Fast 1200mV -40C Model Setup 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : -0.837
+TNS   : -2.878
+
+Type  : Fast 1200mV -40C Model Hold 'clock'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -287.179
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'p1_fetch_p4_mem_access:fetch_mem_access|instruction_register[10]'
+Slack : 0.313
+TNS   : 0.000
+
+------------------------------------------------------------

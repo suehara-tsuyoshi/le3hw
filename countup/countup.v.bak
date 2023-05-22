@@ -1,0 +1,17 @@
+module countup(
+  input clock,
+  output reg [7:0] seg,
+  output [3:0] sel);
+
+  wire data [3:0] = 4'b0000;
+
+  always @(posedge clock) begin
+    if (reset == 1'b0 or data == 4'b1001) begin
+      data <= 4'b0000;
+    end else begin
+      data <= data + 1;
+    end
+    hexadecimal h1(.data(data[3:0]),.seg(seg[7:0]),.sel(sel[3:0]));
+  end
+
+endmodule

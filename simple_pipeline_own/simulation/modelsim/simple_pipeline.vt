@@ -1,0 +1,102 @@
+// Copyright (C) 2017  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench template that is freely editable to  
+// suit user's needs .Comments are provided in each section to help the user    
+// fill out necessary details.                                                  
+// *****************************************************************************
+// Generated on "05/02/2021 22:06:18"
+                                                                                
+// Verilog Test Bench template for design : simple_pipeline
+// 
+// Simulation tool : ModelSim-Altera (Verilog)
+// 
+
+`timescale 1 ps/ 1 ps
+module simple_pipeline_vlg_tst();
+// constants                                           
+// general purpose registers
+reg eachvec;
+// test vector input registers
+reg clock;
+reg exec;
+reg [15:0] outside_input;
+reg reset;
+// wires                                               
+wire clock_out;
+wire [15:0]  data_for_output;
+wire [15:0]  data_for_write_out;
+wire [15:0]  data_mem_read_data;
+wire [15:0]  data_register;
+wire [15:0]  ins_mem_read_data;
+wire [15:0]  instruction_register;
+wire op_reg_write45_out;
+wire [15:0]  program_counter;
+wire [15:0]  register0;
+wire [15:0]  register1;
+wire [15:0]  register2;
+wire [15:0]  register3;
+wire [15:0]  register4;
+wire [15:0]  register5;
+wire [15:0]  register6;
+wire [15:0]  register7;
+wire reset_out;
+
+// assign statements (if any)                          
+simple_pipeline i1 (
+// port map - connection between master ports and signals/registers   
+	.clock(clock),
+	.clock_out(clock_out),
+	.data_for_output(data_for_output),
+	.data_for_write_out(data_for_write_out),
+	.data_mem_read_data(data_mem_read_data),
+	.data_register(data_register),
+	.exec(exec),
+	.ins_mem_read_data(ins_mem_read_data),
+	.instruction_register(instruction_register),
+	.op_reg_write45_out(op_reg_write45_out),
+	.outside_input(outside_input),
+	.program_counter(program_counter),
+	.register0(register0),
+	.register1(register1),
+	.register2(register2),
+	.register3(register3),
+	.register4(register4),
+	.register5(register5),
+	.register6(register6),
+	.register7(register7),
+	.reset(reset),
+	.reset_out(reset_out)
+);
+initial                                                
+begin                                                  
+// code that executes only once                        
+// insert code here --> begin                          
+                                                       
+// --> end                                             
+$display("Running testbench");                       
+end                                                    
+always                                                 
+// optional sensitivity list                           
+// @(event1 or event2 or .... eventn)                  
+begin                                                  
+// code executes for every event on sensitivity list   
+// insert code here --> begin                          
+                                                   
+@eachvec;                                              
+// --> end                                             
+end                                                    
+endmodule
+

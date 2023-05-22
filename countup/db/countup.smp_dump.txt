@@ -1,0 +1,7 @@
+
+State Machine - |countup|num
+Name num.11 num.10 num.01 num.00 
+num.00 0 0 0 0 
+num.01 0 0 1 1 
+num.10 0 1 0 1 
+num.11 1 0 0 1 
